@@ -1,4 +1,4 @@
-#####This is a modified version of https://github.com/Kalebu/alright to send bulk messages with attached image for known or unknown numbers via whatsappweb
+#####  This is a modified version of https://github.com/Kalebu/alright to send bulk messages with attached image for known or unknown numbers via whatsappweb
 
 - run requirements.txt for installing the version fixed dependencies
 - run main script image_msg.py for starting the msg flow
